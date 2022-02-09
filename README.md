@@ -1,5 +1,5 @@
-### Hi there 👋 I AM Soheil
-🌱 I’m currently learning
+### I AM Soheil 👋
+🌱 I’m currently learning <br />
 ⚡ Fun fact I'm always learning !
 
 <!--
