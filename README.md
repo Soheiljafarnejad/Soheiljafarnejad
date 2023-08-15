@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
+<h1>Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" /></h1>
 
 
 <p> 
@@ -10,25 +10,25 @@ My name is Soheil and I am a Computer student ,My true passion is in learning ne
 
 
 <h2>
-My Current Tech Stack and Learning Advanced Of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+My Current Tech Stack and Learning Advanced Of <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" />
 </h2>
   <img alt="skils" src="https://skillicons.dev/icons?i=js,react,nextjs,ts,vite,graphql,redux,git,materialui,bootstrap,tailwind,sass,css,html" />
 
 
-  <h2>Plan To Learn <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /></h2>
+  <h2>Plan To Learn <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /></h2>
   <img alt="skils" src="https://skillicons.dev/icons?i=jest,threejs,webpack,babel,nodejs,express" />
 
  
-## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="25" height="25" />
+## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="30" height="30" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> **Coding** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bowling.png" alt="Bowling" width="25" height="25" /> **Gym**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="25" height="25" /> **Music** 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="30" height="30" /> **Coding** 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bowling.png" alt="Bowling" width="30" height="30" /> **Gym**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="30" height="30" /> **Music** 
 
   
   
 
-<h2>Where to find me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /></h2>
+<h2>Where to find me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" height="30" /></h2>
 
 <a href="https://linkedin.com/in/soheiljafarnejad" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377305-7062bbec-ca23-43d9-b37d-da443ea59cb7.png" alt="soheiljafarnejad" height="25" width="25" /></a> &nbsp;
 <a href="mailto:jafarnejad.official@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377332-6de4f1a9-d1b0-49d3-879d-bb1158674e84.png" alt="soheiljafarnejad" height="25" width="25" /></a> &nbsp;
