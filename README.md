@@ -1,11 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
 
 <p> 
@@ -28,29 +20,54 @@ My true passion is in learning new technologies and creating exceptional user ex
 </details> 
 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <h3>The languages and tools that we spend our time together:</h3>
-<p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JS-F7E018?style=flat-square&logo=Javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-18BCEE?&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?&logo=Next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="RESTAPI" src="https://img.shields.io/badge/-REST%20API-6B3FE7?&logo=axios&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white" />
-  <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-white?&logo=Socket.IO&logoColor=black" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1B74BA?&logo=webpack&logoColor=white" />
-  <img alt="babel" src="https://img.shields.io/badge/-babel-F5DA55?&logo=babel&logoColor=black" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white" />
-  <img alt="Material Ui" src="https://img.shields.io/badge/-Material%20Ui-1a73e8?&logo=mui&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8210F5?&logo=Bootstrap&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-36B7F0?&logo=Tailwindcss&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-264DE4?&logo=css3&logoColor=white" />
-  <img alt="html" src="https://img.shields.io/badge/-Html-F75421?&logo=Html5&logoColor=white" />
-<!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
-<!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=webpack"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=babel"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=materialui"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html"/>
+
+<!-- light mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=webpack&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=babel&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=materialui&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bootstrap&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sass&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=light"/>
+
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,graphql,webpack,babel,redux,git,materialui,bootstrap,tailwind,sass,css,html" />
+  
+
+</picture>
+
 
 <h3>Where to find me</h3>
 
