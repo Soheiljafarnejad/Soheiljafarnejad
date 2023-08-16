@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="28" height="28" /></h1>
 
 <p> 
-My name is Soheil and I am a Computer student ,My true passion is in learning new technologies and creating exceptional user experiences. To me, reducing the run time loading and dynamic interactions are of paramount importance. I take pride in writing clean and efficient code to be able to provide high‐performance applications. Continuous learning and staying up‐to‐date with the latest trends are my most important approach to ensure offering the best solutions for solving problems and challenges.
+My name is Soheil and I'm a Computer engineer student, My true passion is in learning new technologies and creating exceptional user experiences. To me, reducing the run time loading and dynamic interactions are of paramount importance. I take pride in writing clean and efficient code to be able to provide high‐performance applications. Continuous learning and staying up‐to‐date with the latest trends are my most important approach to ensure offering the best solutions for solving problems and challenges.
 </p>
 
   <img alt="github contribution grid snake animation" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
