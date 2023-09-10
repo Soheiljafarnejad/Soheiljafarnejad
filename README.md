@@ -13,7 +13,7 @@ My name is Soheil and I'm a Computer engineer student, My true passion is in lea
 
 ## Plan To Learn <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" />
 
-  <img alt="skills" src="https://skillicons.dev/icons?i=jest,threejs,webpack,babel,nodejs,express" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=jest,threejs,webpack,babel,nodejs,express,nestjs" />
 
 ## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="30" height="30" />
 
