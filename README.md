@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="28" height="28" /></h1>
 
 <p> 
-My name is Soheil and I'm a Computer engineer student, My true passion is in learning new technologies and creating exceptional user experiences. To me, reducing the run time loading and dynamic interactions are of paramount importance. I take pride in writing clean and efficient code to be able to provide high‐performance applications. Continuous learning and staying up‐to‐date with the latest trends are my most important approach to ensure offering the best solutions for solving problems and challenges.
+My name is Soheil and I'm a Computer engineer student, My true passion is in learning new technologies and creating exceptional user experiences. To me, reducing the run time loading and dynamic interactions are of paramount importance. Continuous learning and staying up‐to‐date with the latest trends are my most important approach to ensure offering the best solutions for solving problems and challenges.
 </p>
 
   <img alt="github contribution grid snake animation" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
@@ -9,11 +9,11 @@ My name is Soheil and I'm a Computer engineer student, My true passion is in lea
 
 ## My current technology stack and continuous advanced learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="32" height="32" />
 
-  <img alt="skills" src="https://skillicons.dev/icons?i=js,react,nextjs,ts,vite,graphql,redux,git,materialui,bootstrap,tailwind,sass,css,html" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=js,react,nextjs,ts,nodejs,express,mongodb,graphql,redux,git,tailwind,bootstrap,sass" />
 
 ## Plan To Learn <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" />
 
-  <img alt="skills" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,jest,threejs,webpack,babel" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=docker,nestjs,mysql,postgres,jest,threejs,webpack,babel" />
 
 ## Things I like to do in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" alt="Sauropod" width="30" height="30" />
 
