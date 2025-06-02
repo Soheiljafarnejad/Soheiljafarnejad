@@ -23,8 +23,8 @@ I entered the world of programming in 2021. My favorite language is JavaScript, 
 
 ## Where to find me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Coding" width="28" height="28" />
 
+<a href="https://www.linkedin.com/in/soheiljafarnejad" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/linkedin.webp" alt="linkedin" height="35" width="35" /></a> &nbsp;
 <a href="https://medium.com/@Soheiljafarnejad" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/medium.webp" alt="medium" height="35" width="35" /></a> &nbsp;
 <a href="https://virgool.io/@soheiljafarnejad" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/virgool.webp" alt="virgool" height="35" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/soheiljafarnejad" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/linkedin.webp" alt="linkedin" height="35" width="35" /></a> &nbsp;
 <a href="https://www.facebook.com/soheiljafarnejad" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/facebook.webp" alt="facebook" height="35" width="35" /></a> &nbsp;
 <a href="https://x.com/soheiljafarnejd" target="_blank"><img align="center" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/master/images/twitter.webp" alt="twitter" height="35" width="35" /></a> &nbsp;
