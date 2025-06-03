@@ -1,7 +1,7 @@
-<h1>Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="hi" width="28" height="28" /></h1>
+<h1>Hi, I'm Soheil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="hi" width="28" height="28" /></h1>
 
 <p> 
-I entered the world of programming in 2021. My favorite language is JavaScript, and I specialize in front-end development. I love experimenting and discovering new things, and I'm often engaged in bringing my ideas to life.
+I'm a front-end developer who started coding in 2021. JavaScript is my favorite language, and I enjoy turning ideas into real, usable web experiences. Always exploring, always building.
 </p>
 
   <img alt="github contribution grid snake animation" src="https://github.com/Soheiljafarnejad/Soheiljafarnejad/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
